@@ -1,0 +1,16 @@
+div h1{
+    background-color: mistyrose;
+    color: purple;
+}
+div>h2{
+    background-color: yellow;
+    color: deeppink;
+}
+div+h1{
+    background-color: mistyrose;
+    color: forestgreen;
+}
+div~h2{
+    background-color: bisque;
+    color: black;
+}

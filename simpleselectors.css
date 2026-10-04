@@ -1,0 +1,30 @@
+#a{
+background-color: beige;
+color: rgb(0, 11, 11);
+}
+#b{
+    background-color: blueviolet;
+    color: black;
+    font-style: italic;
+}
+#c{
+    background-color: antiquewhite;
+    color: brown;
+}
+# .h{
+    background-color: black;
+    color: aliceblue;
+    font-style: italic;
+}
+h1{
+    background-color: blue;
+    color: aqua;
+}
+h2,h3,h4{
+background-color: chocolate;
+color: cornsilk;
+}
+*{
+    background-color: darkslategray;
+    color: lightcoral;
+}
